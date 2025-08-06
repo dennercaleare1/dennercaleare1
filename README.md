@@ -1,34 +1,41 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu perfil no GitHub
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</div>
+
+---
+
 ## 👨‍💻 Sobre mim
-Me chamo **Denner Gabriel Ramos Caleare** e sou estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Lavras (UFLA)**.  
-Atualmente, estou focado em projetos de **Ciência de Dados**, **Visualização Interativa** e **Automação Inteligente**.
+Sou **Denner Gabriel Ramos Caleare**, estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Lavras (UFLA)**.  
+Atualmente, me especializo em **Ciência de Dados** e **Inteligência Artificial**, criando soluções baseadas em dados para problemas do mundo real.
 
-Tenho experiência com **microcontroladores** (principalmente Arduino) e sou apaixonado por **Python** e suas bibliotecas para análise de dados, como **Pandas**, **Seaborn**, **Matplotlib** e **Streamlit**.  
+💡 Tenho experiência com:
+- **Análise e visualização de dados** usando **Python** (Pandas, Matplotlib, Seaborn, Plotly)
+- **Machine Learning** (Scikit-learn)
+- **Dashboards interativos** (Streamlit, Power BI)
+- **Manipulação e integração de dados** (SQL, APIs)
 
-Minha formação técnica em **Informática** me deu uma base sólida em programação (**C, C++, HTML/CSS, JavaScript, PHP**) e raciocínio lógico.
-
----
-
-## 💼 O que estou buscando
-- 🔗 Conectar **engenharia** e **dados** para gerar soluções aplicadas  
-- 🤝 Colaborar em projetos de **Ciência de Dados** e **Inteligência Artificial**  
-- 📚 Aprender continuamente e contribuir com a comunidade tech  
+⚡ Possuo também uma sólida base em **programação** (C, C++, HTML/CSS, JavaScript, PHP) e **microcontroladores** (Arduino).
 
 ---
 
-## 📚 Tecnologias e Ferramentas
+## 🎯 Objetivos
+- 🔍 Transformar dados em **insights acionáveis**
+- 🤝 Colaborar em projetos de **Data Science** e **IA**
+- 🚀 Criar soluções inteligentes que unam **engenharia** e **dados**
+
+---
+
+## 🛠 Tecnologias & Ferramentas
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50"/>
 </div>
 
 ---
@@ -36,7 +43,8 @@ Minha formação técnica em **Informática** me deu uma base sólida em program
 ## 📊 Estatísticas
 <div>
 <a href="https://github.com/DennerCaleare">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerCaleare&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerCaleare&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennerCaleare&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 </div>
 
@@ -66,4 +74,4 @@ Minha formação técnica em **Informática** me deu uma base sólida em program
 
 ---
 
-💡 _"Tenho paixão por aplicar tecnologia para resolver problemas do mundo real, especialmente na área de inteligência artificial. Vamos nos conectar e explorar juntos o emocionante mundo da tecnologia!"_
+💡 _"Ciência de Dados é transformar informação em ação. Vamos juntos explorar o poder dos dados!"_
