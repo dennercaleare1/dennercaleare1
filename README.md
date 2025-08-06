@@ -1,16 +1,22 @@
-# 👋 Olá! Seja bem-vindo(a) ao meu perfil no GitHub
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</div>
+<table>
+<tr>
+<td>
+  
+# 👋 Bem-vindo(a)!
+Sou **Denner Gabriel Ramos Caleare**, estudante de **Engenharia de Controle e Automação** focado em **Ciência de Dados** e **IA**.  
+Transformo dados em **insights** e **soluções inteligentes** para o mundo real.
+  
+</td>
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 👨‍💻 Sobre mim
-Sou **Denner Gabriel Ramos Caleare**, estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Lavras (UFLA)**.  
-Atualmente, me especializo em **Ciência de Dados** e **Inteligência Artificial**, criando soluções baseadas em dados para problemas do mundo real.
+## 💡 Tenho experiência com:
 
-💡 Tenho experiência com:
 - **Análise e visualização de dados** usando **Python** (Pandas, Matplotlib, Seaborn, Plotly)
 - **Machine Learning** (Scikit-learn)
 - **Dashboards interativos** (Streamlit, Power BI)
