@@ -91,67 +91,9 @@ Transformo dados complexos em **insights estratégicos** e **soluções intelige
 - **Visualizações interativas** de séries temporais
 - **Insights para políticas públicas**
 
-### ⚖️ **Sistema Alerta Justiça**
-- **Web scraping** para coleta automatizada de dados jurídicos
-- **Análise preditiva** para alertas inteligentes
-- **Dashboard responsivo** para monitoramento
 
----
 
-## 📈 Estatísticas GitHub
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dennercaleare1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennercaleare1&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
-
-## 🎯 Objetivos Profissionais
-
-- 🔬 **Pesquisa**: Contribuir para avanços em **Data Science** aplicada
-- 🏢 **Indústria**: Resolver problemas reais com **Analytics** e **ML**
-- 🌍 **Impacto Social**: Usar dados para **políticas públicas** e **sustentabilidade**
-- 🤝 **Colaboração**: Participar de **comunidades** e **projetos open-source**
-- 📚 **Ensino**: Compartilhar conhecimento através de **conteúdo educativo**
-
----
-
-## 🐍 Atividade no GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dennercaleare1/dennercaleare1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dennercaleare1/dennercaleare1/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/dennercaleare1/dennercaleare1/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📬 Vamos Conectar!
-
-<div align="center">
-
-<a href="https://linkedin.com/in/dennercaleare" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:denner.pf17@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/dennercaleare" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://github.com/dennercaleare1" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Os dados não mentem, mas só revelam seus segredos para quem sabe fazer as perguntas certas."*
-
-**Disponível para colaborações em projetos de Data Science, Machine Learning e Analytics!** 🚀
-
-</div>
+### 💼 **Projetos Profissionais**
+- **Análise de Churn de Clientes** - Identificação de padrões e fatores de cancelamento
+- **E-commerce Analytics** - Sistema de análise de performance de lojas
+- **Business Intelligence** - Dashboards interativos para tomada de decisão
